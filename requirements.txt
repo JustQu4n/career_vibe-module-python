@@ -1,0 +1,20 @@
+# Production dependencies
+fastapi
+uvicorn[standard]
+sqlalchemy
+psycopg2-binary
+sentence-transformers
+python-dotenv
+
+# CV Processing dependencies
+PyPDF2
+python-docx
+python-multipart
+
+# RAG Chatbot dependencies
+google-generativeai
+faiss-cpu
+pandas
+openpyxl
+langchain
+langchain-community

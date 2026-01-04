@@ -1,0 +1,59 @@
+# Sample CV for Testing
+
+This is a sample CV content for testing the CV analysis features.
+
+## JOHN DOE
+**Software Engineer**
+
+Email: john.doe@email.com | Phone: +84 123 456 789
+Location: Hanoi, Vietnam
+
+### PROFESSIONAL SUMMARY
+Experienced Software Engineer with 5 years of expertise in backend development and cloud technologies. Proficient in Python, JavaScript, and modern web frameworks. Proven track record of building scalable applications serving thousands of users.
+
+### TECHNICAL SKILLS
+- **Languages:** Python, JavaScript, TypeScript, SQL
+- **Frameworks:** Django, FastAPI, React, Node.js, Express
+- **Databases:** PostgreSQL, MongoDB, Redis
+- **DevOps:** Docker, Kubernetes, AWS, CI/CD
+- **Tools:** Git, JIRA, VS Code
+
+### WORK EXPERIENCE
+
+**Senior Backend Developer** | Tech Corporation Ltd | Jan 2020 - Present
+- Developed RESTful APIs using FastAPI serving 100K+ requests per day
+- Optimized database queries reducing response time by 40%
+- Implemented microservices architecture with Docker and Kubernetes
+- Led team of 3 developers in agile environment
+- Integrated payment gateways and third-party APIs
+
+**Backend Developer** | GlobalSoft International | Jun 2018 - Dec 2019
+- Built e-commerce platform handling 10K+ transactions monthly
+- Designed database schema for inventory management system
+- Implemented authentication and authorization with JWT
+- Created automated testing suite with 80% code coverage
+- Participated in code reviews and mentored junior developers
+
+### EDUCATION
+**Bachelor of Computer Science**
+Hanoi University of Science and Technology | 2014 - 2018
+GPA: 3.5/4.0
+
+### CERTIFICATIONS
+- AWS Certified Solutions Architect (2021)
+- Python Developer Certificate (2019)
+
+### LANGUAGES
+- Vietnamese: Native
+- English: Fluent (IELTS 7.5)
+
+### PROJECTS
+**E-Commerce Platform** (2020)
+- Built full-stack web application using Django and React
+- Implemented real-time chat feature using WebSocket
+- Deployed on AWS with auto-scaling
+
+**Job Recommendation System** (2021)
+- Developed ML-based recommendation engine using Python
+- Achieved 85% accuracy in job matching
+- Technologies: Python, Scikit-learn, FastAPI

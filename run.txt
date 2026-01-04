@@ -1,0 +1,5 @@
+D:/graduation-project/ai/.venv/Scripts/Activate.ps1; pip install -r requirements.txt
+
+
+$env:PYTHONPATH = 'src'; python -m uvicorn ai_project.app:app --reload --host 127.0.0.1 --port 8000
+$env:PYTHONPATH = 'src'; D:/graduation-project/ai/.venv/Scripts/python.exe -m uvicorn ai_project.app:app --reload --host 127.0.0.1 --port 8000
